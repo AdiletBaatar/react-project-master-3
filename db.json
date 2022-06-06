@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "title": "js ev 9",
+      "description": "",
+      "price": "1600",
+      "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+      "id": 6
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": "",
+      "image": "",
+      "id": 7
+    },
+    {
+      "title": "",
+      "description": "",
+      "price": "",
+      "image": "",
+      "id": 8
+    },
+    {
+      "title": "qwq",
+      "description": "wqwq",
+      "price": "qwqw",
+      "image": "qwqw",
+      "id": 9
+    },
+    {
+      "title": "nmbde",
+      "description": "6756",
+      "price": 8767,
+      "image": "vjvmnvbmn",
+      "id": 10
+    },
+    {
+      "title": "madf ,d ,",
+      "description": ",mncx,z",
+      "price": 767,
+      "image": "aan ,zc ,mz ",
+      "id": 11
+    },
+    {
+      "title": "78568",
+      "description": "669",
+      "price": 76687,
+      "image": "hgjhgvhkgbhk",
+      "id": 12
+    },
+    {
+      "title": "jkfghkjhdf",
+      "description": "g,ndb",
+      "price": 434,
+      "image": "bv,mnbnnb",
+      "id": 13
+    },
+    {
+      "title": "73678467864",
+      "description": "rhgdfhjsf",
+      "price": 667,
+      "image": "jkhkjhjk",
+      "id": 14
+    },
+    {
+      "title": "hjvhjbv",
+      "description": "mbb",
+      "price": 9897,
+      "image": "jkgbjbkbk",
+      "id": 15
+    }
+  ]
+}
